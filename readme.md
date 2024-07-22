@@ -15,7 +15,7 @@ This project creates a Docker container based on Ubuntu that compresses a specif
 Clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/your-username/backup-to-s3.git
+git clone https://github.com/Dylan010/backup-to-s3.git
 cd backup-to-s3
 ```
 
