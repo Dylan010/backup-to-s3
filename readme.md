@@ -103,10 +103,4 @@ To remove the Docker image, run:
 docker rmi backup_to_s3
 ```
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
-
-Feel free to customize the instructions and information as needed for your specific project and environment.
